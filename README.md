@@ -78,23 +78,17 @@ Este proyecto implementa varias medidas de seguridad:
 EcommerceApi/
 ├── EcommerceApi.Api/           # Capa de presentación
 │   ├── Controllers/            # Controladores de la API
-│   ├── Middleware/             # Middleware personalizado
 │   └── Program.cs              # Punto de entrada de la aplicación
 │
 ├── EcommerceApi.Application/   # Capa de aplicación
 │   ├── DTOs/                   # Objetos de Transferencia de Datos
 │   ├── Services/               # Servicios de aplicación
-│   └── UseCases/               # Casos de uso
 │
 ├── EcommerceApi.Core/          # Capa de dominio
 │   ├── Entities/               # Entidades del dominio
-│   ├── Interfaces/             # Interfaces del dominio
-│   └── ValueObjects/           # Objetos de valor
 │
 └── EcommerceApi.Infrastructure/# Capa de infraestructura
     ├── Data/                   # Configuración de la base de datos
-    ├── Repositories/           # Implementaciones de repositorios
-    └── Services/               # Servicios de infraestructura
 ```
 
 ## Patrones y Prácticas Implementadas
@@ -107,28 +101,7 @@ EcommerceApi/
 - SOLID Principles
 - RESTful API Design
 
-## Documentación de la API
-La API está documentada usando Swagger/OpenAPI. Puedes acceder a la documentación en:
-```
-https://localhost:7001/swagger
-```
-o
-```
-http://localhost:5000/swagger
-```
 
-## Testing
-El proyecto incluye pruebas unitarias y de integración. Para ejecutar las pruebas:
-```bash
-dotnet test
-```
-
-## Contribución
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
