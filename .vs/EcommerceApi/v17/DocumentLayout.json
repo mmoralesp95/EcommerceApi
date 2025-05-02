@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E05AE2D-A31A-45FE-94AC-F3B5E51C9A57}|EcommerceApi.Api\\EcommerceApi.Api.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.api\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E05AE2D-A31A-45FE-94AC-F3B5E51C9A57}|EcommerceApi.Api\\EcommerceApi.Api.csproj|solutionrelative:ecommerceapi.api\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6566A882-A1C9-40DD-9E87-689A06B3A47C}|EcommerceApi.Core\\EcommerceApi.Core.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6566A882-A1C9-40DD-9E87-689A06B3A47C}|EcommerceApi.Core\\EcommerceApi.Core.csproj|solutionrelative:ecommerceapi.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435EB811-543A-486A-B52B-BCEE9FF98215}|EcommerceApi.Application\\EcommerceApi.Application.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435EB811-543A-486A-B52B-BCEE9FF98215}|EcommerceApi.Application\\EcommerceApi.Application.csproj|solutionrelative:ecommerceapi.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435EB811-543A-486A-B52B-BCEE9FF98215}|EcommerceApi.Application\\EcommerceApi.Application.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435EB811-543A-486A-B52B-BCEE9FF98215}|EcommerceApi.Application\\EcommerceApi.Application.csproj|solutionrelative:ecommerceapi.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E05AE2D-A31A-45FE-94AC-F3B5E51C9A57}|EcommerceApi.Api\\EcommerceApi.Api.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E05AE2D-A31A-45FE-94AC-F3B5E51C9A57}|EcommerceApi.Api\\EcommerceApi.Api.csproj|solutionrelative:ecommerceapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E05AE2D-A31A-45FE-94AC-F3B5E51C9A57}|EcommerceApi.Api\\EcommerceApi.Api.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.api\\ecommerceapi.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0E05AE2D-A31A-45FE-94AC-F3B5E51C9A57}|EcommerceApi.Api\\EcommerceApi.Api.csproj|solutionrelative:ecommerceapi.api\\ecommerceapi.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E05AE2D-A31A-45FE-94AC-F3B5E51C9A57}|EcommerceApi.Api\\EcommerceApi.Api.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E05AE2D-A31A-45FE-94AC-F3B5E51C9A57}|EcommerceApi.Api\\EcommerceApi.Api.csproj|solutionrelative:ecommerceapi.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435EB811-543A-486A-B52B-BCEE9FF98215}|EcommerceApi.Application\\EcommerceApi.Application.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435EB811-543A-486A-B52B-BCEE9FF98215}|EcommerceApi.Application\\EcommerceApi.Application.csproj|solutionrelative:ecommerceapi.application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B66145-312A-415E-A8A7-F4EA70A71700}|EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B66145-312A-415E-A8A7-F4EA70A71700}|EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj|solutionrelative:ecommerceapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6566A882-A1C9-40DD-9E87-689A06B3A47C}|EcommerceApi.Core\\EcommerceApi.Core.csproj|c:\\users\\miguel\\pictures\\ecommerceapi\\ecommerceapi.core\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6566A882-A1C9-40DD-9E87-689A06B3A47C}|EcommerceApi.Core\\EcommerceApi.Core.csproj|solutionrelative:ecommerceapi.core\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EcommerceApi.Api.http",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.http",
+              "RelativeDocumentMoniker": "EcommerceApi.Api\\EcommerceApi.Api.http",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.http",
+              "RelativeToolTip": "EcommerceApi.Api\\EcommerceApi.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-02T14:38:25.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\Controllers\\WebhookController.cs",
+              "RelativeDocumentMoniker": "EcommerceApi.Api\\Controllers\\WebhookController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\Controllers\\WebhookController.cs",
+              "RelativeToolTip": "EcommerceApi.Api\\Controllers\\WebhookController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:23:23.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "EcommerceApi.Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "EcommerceApi.Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:17:54.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "EcommerceApi.Application\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "EcommerceApi.Application\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:17:37.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceApi.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EcommerceApi.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:51:50.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EcommerceApi.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EcommerceApi.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:50:51.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "EcommerceApi.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "EcommerceApi.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:50:20.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceApi.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\appsettings.json",
+              "RelativeToolTip": "EcommerceApi.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T13:49:33.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "EcommerceApi.Core\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "EcommerceApi.Core\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:46:08.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "EcommerceApi.Core\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\Entities\\Order.cs",
+              "RelativeToolTip": "EcommerceApi.Core\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:45:56.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
