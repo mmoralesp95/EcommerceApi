@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.csproj": {}
+    "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.csproj": {
+    "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.csproj",
         "projectName": "EcommerceApi.Api",
-        "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.csproj",
+        "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\EcommerceApi.Api.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Api\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj": {
-                "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj"
+              "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj": {
+                "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj"
               },
-              "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj"
+              "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj": {
+    "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj",
         "projectName": "EcommerceApi.Application",
-        "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj",
+        "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\EcommerceApi.Application.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Application\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -131,11 +131,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj": {
-                "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj"
+              "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj": {
+                "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj"
               },
-              "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj"
+              "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj"
               }
             }
           }
@@ -189,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj": {
+    "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj",
         "projectName": "EcommerceApi.Core",
-        "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj",
+        "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,14 +254,14 @@
         }
       }
     },
-    "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj": {
+    "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj",
         "projectName": "EcommerceApi.Infrastructure",
-        "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\EcommerceApi.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -282,8 +282,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj": {
-                "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj"
+              "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj": {
+                "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj"
               }
             }
           }

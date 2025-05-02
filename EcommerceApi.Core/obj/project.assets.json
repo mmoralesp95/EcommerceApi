@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj",
       "projectName": "EcommerceApi.Core",
-      "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj",
+      "projectPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\EcommerceApi.Core.csproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\EcommerceApi\\EcommerceApi.Core\\obj\\",
+      "outputPath": "C:\\Users\\Miguel\\Pictures\\EcommerceApi\\EcommerceApi.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
