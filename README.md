@@ -25,20 +25,53 @@ git clone [URL_DEL_REPOSITORIO]
 cd EcommerceApi
 ```
 
-### 2. Configurar la Base de Datos
-1. Asegúrate de tener SQL Server instalado y en ejecución
-2. Actualiza la cadena de conexión en `appsettings.json`
-3. Ejecuta las migraciones de Entity Framework Core
+### 2. Configuración de Variables de Entorno
+1. Copia el archivo `appsettings.example.json` a `appsettings.json`:
+   ```bash
+   cp EcommerceApi.Api/appsettings.example.json EcommerceApi.Api/appsettings.json
+   ```
+2. Actualiza los siguientes valores en `appsettings.json`:
+   - `ConnectionStrings.DefaultConnection`: Cadena de conexión a tu base de datos
+   - `Jwt.Key`: Clave secreta para la generación de tokens JWT
+   - `Jwt.Issuer`: Emisor del token JWT
+   - `Jwt.Audience`: Audiencia del token JWT
+   - `Stripe.SecretKey`: Clave secreta de Stripe
+   - `Stripe.WebhookSecret`: Secreto para webhooks de Stripe
+   - `Stripe.PublishableKey`: Clave pública de Stripe
 
-### 3. Restaurar Dependencias
+### 3. Configurar la Base de Datos
+1. Asegúrate de tener SQL Server instalado y en ejecución
+2. Ejecuta las migraciones de Entity Framework Core:
+   ```bash
+   dotnet ef database update --project EcommerceApi.Infrastructure
+   ```
+
+### 4. Restaurar Dependencias
 ```bash
 dotnet restore
 ```
 
-### 4. Ejecutar el Proyecto
+### 5. Ejecutar el Proyecto
 ```bash
 dotnet run --project EcommerceApi.Api
 ```
+
+## Seguridad
+Este proyecto implementa varias medidas de seguridad:
+
+- Autenticación JWT con expiración configurable
+- Hash de contraseñas usando algoritmos seguros
+- Protección contra CSRF
+- Validación de datos de entrada
+- Rate limiting para prevenir ataques de fuerza bruta
+- Integración segura con Stripe para pagos
+
+### Consideraciones de Seguridad
+- Nunca compartas tus archivos `appsettings.json` o `appsettings.Development.json`
+- Mantén tus claves JWT y de Stripe seguras
+- Usa HTTPS en producción
+- Implementa CORS adecuadamente según tu entorno
+- Mantén las dependencias actualizadas
 
 ## Estructura del Proyecto
 ```

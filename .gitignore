@@ -45,7 +45,7 @@ coverage/
 # Archivos relacionados con Rider (JetBrains)
 .idea/
 
-# Archivos de configuración sensible
+# Archivos de configuración sensibles
 appsettings.Development.json
 appsettings.Production.json
 appsettings.json
@@ -74,3 +74,36 @@ coverage.json
 
 # Resultados de pruebas unitarias
 xunit.runner.json
+
+# Archivos de entorno
+.env.local
+.env.development
+.env.production
+
+# Archivos de usuario
+*.userosscache
+
+# Archivos de compilación
+*.dll
+*.exe
+*.cache
+*.config
+
+# Archivos de logs
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de IDE
+*.swp
+*.swo
+
+# Archivos de paquetes
+node_modules/
+
+# Archivos de migración (opcional, dependiendo de tu estrategia)
+# Migrations/
+
+# Archivos de prueba
+*.TestResults.xml
