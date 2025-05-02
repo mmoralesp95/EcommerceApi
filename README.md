@@ -1,7 +1,7 @@
 # EcommerceApi
 
 ## Descripción
-EcommerceApi es una API RESTful desarrollada en .NET que implementa una arquitectura limpia (Clean Architecture) para gestionar operaciones de comercio electrónico. El proyecto está estructurado en capas siguiendo los principios SOLID y las mejores prácticas de desarrollo de software.
+EcommerceApi es una API RESTful desarrollada en .NET que implementa una arquitectura limpia (Clean Architecture) para gestionar operaciones de comercio electrónico. El proyecto está estructurado en capas siguiendo los principios SOLID y las mejores prácticas de desarrollo de software. Siguiendo https://roadmap.sh/projects/ecommerce-api
 
 ## Arquitectura
 El proyecto está organizado en las siguientes capas:
